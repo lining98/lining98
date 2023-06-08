@@ -26,5 +26,5 @@
 
 **GitHub Stats:**
 
-<span><img align="center" src="https://github-readme-stats.vercel.app/api?username=lining98&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" /></span>
-<span><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lining98&langs_count=3&hide_title=true&hide_border=true" /></span>
+![lining's github stats](https://github-readme-stats.vercel.app/api?username=lining98&show_icons=true&hide_title=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lining98&layout=compact)
