@@ -7,8 +7,10 @@
 [![music](https://img.shields.io/badge/云音乐-39c6ad?logo=AppleMusic&logoColor=fff)](http://121.40.174.152/#/discover/recommend)
 [![vue-template-admin](https://img.shields.io/badge/vue3templateadmin-00485B?logoColor=fff)](http://121.40.174.152/vue3-template-admin/)<br />
 
+<!-- 
 [![GitHub Stars](https://img.shields.io/github/stars/lining98?color=2da44e&label=GitHub%20Stars&logo=Github)](https://github.com/lining98)
 [![visitors](https://visitor-badge.laobi.icu/badge?page_id=lining98.lining98)](https://github.com/lining98)
+-->
 
 **Languages:**
 
@@ -28,5 +30,5 @@
 
 **GitHub Stats:**
 
-![lining's github stats](https://github-readme-stats.vercel.app/api?username=lining98&show_icons=true&hide_title=true&count_private=true)
+<!-- ![lining's github stats](https://github-readme-stats.vercel.app/api?username=lining98&show_icons=true&hide_title=true&count_private=true)-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lining98&layout=compact)
