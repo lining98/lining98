@@ -2,10 +2,10 @@
 
 **About Me:**
 
-[![lining98](https://img.shields.io/badge/lining98-4285F4?logo=GoogleHome&logoColor=fff)](http://121.40.174.152)
+[![lining98](https://img.shields.io/badge/lining98-4285F4?logo=GoogleHome&logoColor=fff)]([http://](http://111.229.203.202/))
 [![柠檬小窝](https://img.shields.io/badge/柠檬小窝-4ABF8A?logo=Bloglovin&logoColor=fff)](https://lining98.github.io/docs/)
-[![music](https://img.shields.io/badge/云音乐-39c6ad?logo=AppleMusic&logoColor=fff)](http://121.40.174.152/#/discover/recommend)
-[![vue-template-admin](https://img.shields.io/badge/vue3templateadmin-00485B?logoColor=fff)](http://121.40.174.152/vue3-template-admin/)<br />
+[![music](https://img.shields.io/badge/云音乐-39c6ad?logo=AppleMusic&logoColor=fff)](http://111.229.203.202/music)
+[![vue-template-admin](https://img.shields.io/badge/vue3templateadmin-00485B?logoColor=fff)](http://111.229.203.202/vue3-template-admin/)<br />
 
 <!-- 
 [![GitHub Stars](https://img.shields.io/github/stars/lining98?color=2da44e&label=GitHub%20Stars&logo=Github)](https://github.com/lining98)
