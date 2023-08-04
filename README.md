@@ -2,7 +2,7 @@
 
 **About Me:**
 
-[![lining98](https://img.shields.io/badge/lining98-4285F4?logo=GoogleHome&logoColor=fff)]([http://](http://111.229.203.202/))
+[![lining98](https://img.shields.io/badge/lining98-4285F4?logo=GoogleHome&logoColor=fff)](http://111.229.203.202/)
 [![柠檬小窝](https://img.shields.io/badge/柠檬小窝-4ABF8A?logo=Bloglovin&logoColor=fff)](https://lining98.github.io/docs/)
 [![music](https://img.shields.io/badge/云音乐-39c6ad?logo=AppleMusic&logoColor=fff)](http://111.229.203.202/music)
 [![vue-template-admin](https://img.shields.io/badge/vue3templateadmin-00485B?logoColor=fff)](http://111.229.203.202/vue3-template-admin/)<br />
